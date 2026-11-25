@@ -1,9 +1,7 @@
-Gaussian-Splatting License  
+FEBgraph2026 License  
 ===========================  
 
-**Inria** and **the Max Planck Institut for Informatik (MPII)** hold all the ownership rights on the *Software* named **gaussian-splatting**.  
-The *Software* is in the process of being registered with the Agence pour la Protection des  
-Programmes (APP).  
+Authors hold all the ownership rights on the *Software* named **FEBgraph2026**.  
 
 The *Software* is still being developed by the *Licensor*.  
 
@@ -15,10 +13,10 @@ the *Software*.
 *Licensee* means any person or entity that uses the *Software* and distributes  
 its *Work*.  
 
-*Licensor* means the owners of the *Software*, i.e Inria and MPII  
+*Licensor* means the owners of the *Software*, i.e the authors.  
 
 *Software* means the original work of authorship made available under this  
-License ie gaussian-splatting.  
+License ie FEBgraph2026.  
 
 *Work* means the *Software* and any additions to or derivative works of the  
 *Software* that are made available under this License.  
@@ -69,8 +67,8 @@ corresponding publications as explained in the documentation of the *Software*.
 ## 5.  Disclaimer  
 
 THE USER CANNOT USE, EXPLOIT OR DISTRIBUTE THE *SOFTWARE* FOR COMMERCIAL PURPOSES  
-WITHOUT PRIOR AND EXPLICIT CONSENT OF LICENSORS. YOU MUST CONTACT INRIA FOR ANY  
-UNAUTHORIZED USE: stip-sophia.transfert@inria.fr . ANY SUCH ACTION WILL  
+WITHOUT PRIOR AND EXPLICIT CONSENT OF LICENSORS. YOU MUST CONTACT AUTHORS FOR ANY  
+UNAUTHORIZED USE: mform1710@gmail.com . ANY SUCH ACTION WILL  
 CONSTITUTE A FORGERY. THIS *SOFTWARE* IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES  
 OF ANY NATURE AND ANY EXPRESS OR IMPLIED WARRANTIES, WITH REGARDS TO COMMERCIAL  
 USE, PROFESSIONNAL USE, LEGAL OR NOT, OR OTHER, OR COMMERCIALISATION OR  
